@@ -22,7 +22,6 @@ angular.module('ionic.ion.headerShrink', [])
                 } else {
                     y = 0;
                 }
-                console.log(scrollTop);
 
                 ionic.requestAnimationFrame(function() {
                     fadeAmt = 1 - (y / headerHeight);
