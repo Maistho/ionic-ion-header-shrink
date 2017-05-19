@@ -1,0 +1,19 @@
+{
+  "name": "ionic-ion-header-shrink",
+  "version": "1.0.0",
+  "description": "Ionic Ion Header Shrink ===========================",
+  "main": "ionic.headerShrink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifiske/ionic-ion-header-shrink.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifiske/ionic-ion-header-shrink/issues"
+  },
+  "homepage": "https://github.com/ifiske/ionic-ion-header-shrink#readme"
+}
